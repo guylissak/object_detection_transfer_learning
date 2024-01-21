@@ -5,4 +5,4 @@ The project includes a jupyter notebook linked to google collab and python modul
 The model was trained on a GPU.
 
 ## Stack:
-PyTorch, Python, google collab, transfer learning, efficentNetB0 model
+PyTorch, Python, Jupyter notebook, transfer learning, efficentNetB0 model
